@@ -8,5 +8,11 @@ open class MathUtils {
             return a+b
 
         }
+
+        fun calculate2(): Int {
+            var a = 10
+            var b = 5
+            return a+b
+        }
     }
 }
